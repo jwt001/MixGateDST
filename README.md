@@ -1,5 +1,7 @@
 # MixGateDST
 for Mixgate down stream tasks you need also
+you can python mix.py to extract embeddings from .aig files
+
 # Advanced Logic Synthesis and  Optimization tool (ALSO)
 
 ALSO is based on the [EPFL Logic Synthesis Libraries](https://github.com/lsils/lstools-showcase), we aim to exploit advanced logic synthesis tools for both modern FPGA and emerging nanotechnologies.
